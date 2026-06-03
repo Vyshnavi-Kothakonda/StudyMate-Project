@@ -1,1 +1,1 @@
-# StudyMate-Project
+# Study_mate
